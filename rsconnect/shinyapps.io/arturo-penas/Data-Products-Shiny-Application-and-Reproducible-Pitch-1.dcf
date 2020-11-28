@@ -1,0 +1,13 @@
+name: Data-Products-Shiny-Application-and-Reproducible-Pitch-1
+title: Data-Products-Shiny-Application-and-Reproducible-Pitch-1
+username:
+account: arturo-penas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3316347
+bundleId: 3916761
+url: https://arturo-penas.shinyapps.io/Data-Products-Shiny-Application-and-Reproducible-Pitch-1/
+when: 1606591294.43268
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: presentation-rpubs.html
